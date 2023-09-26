@@ -1,0 +1,11 @@
+C:\Users\Alex Urbano\source\repos\BD_MDS\BD_MDS\bin\Debug\BD_MDS.exe.config
+C:\Users\Alex Urbano\source\repos\BD_MDS\BD_MDS\bin\Debug\BD_MDS.exe
+C:\Users\Alex Urbano\source\repos\BD_MDS\BD_MDS\bin\Debug\BD_MDS.pdb
+C:\Users\Alex Urbano\source\repos\BD_MDS\BD_MDS\obj\Debug\BD_MDS.csproj.AssemblyReference.cache
+C:\Users\Alex Urbano\source\repos\BD_MDS\BD_MDS\obj\Debug\BD_MDS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alex Urbano\source\repos\BD_MDS\BD_MDS\obj\Debug\BD_MDS.Form1.resources
+C:\Users\Alex Urbano\source\repos\BD_MDS\BD_MDS\obj\Debug\BD_MDS.Properties.Resources.resources
+C:\Users\Alex Urbano\source\repos\BD_MDS\BD_MDS\obj\Debug\BD_MDS.csproj.GenerateResource.cache
+C:\Users\Alex Urbano\source\repos\BD_MDS\BD_MDS\obj\Debug\BD_MDS.csproj.CoreCompileInputs.cache
+C:\Users\Alex Urbano\source\repos\BD_MDS\BD_MDS\obj\Debug\BD_MDS.exe
+C:\Users\Alex Urbano\source\repos\BD_MDS\BD_MDS\obj\Debug\BD_MDS.pdb
